@@ -41,6 +41,11 @@ sites:
     url: https://chat.arbeteserver.com/
   - name: Fortnox Tools
     url: https://ft.injektor.com/
+  - name: Suppliers (Price API)
+    url: https://node-injektor-suppliers.ylo.one/status
+  - name: Static Files
+    url: https://files-static.ylo.one/niolo/database.png
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
