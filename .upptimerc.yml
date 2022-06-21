@@ -57,5 +57,8 @@ status-website:
     - title: Injektor
       href: https://injektor.com/
 
+i18n:
+  footer: Injektor Solutions
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
