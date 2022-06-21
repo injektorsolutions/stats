@@ -1,31 +1,61 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: injektorsolutions # Your GitHub organization or username, where this repository lives
+repo: monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Handinstrument.se
+    url: https://handinstrument.se/
+  - name: IR-Termometer.se
+    url: https://ir-termometer.se/
+  - name: Egenkontroll.nu
+    url: https://egenkontroll.nu/
+  - name: Refraktometer.se
+    url: https://refraktometer.se/
+  - name: Mikroskop24.se
+    url: https://mikroskop24.se/
+  - name: Mikrometer.se
+    url: https://mikrometer.se/
+  - name: Endoskop.se
+    url: https://endoskop.se/
+  - name: Handgerate.de
+    url: https://handgerate.de/
+  - name: Logger.nu
+    url: https://logger.nu/
+  - name: Metrologi.se
+    url: https://metrologi.se/
+  - name: Optiska.se
+    url: https://optiska.se/
+  - name: Refraktometer.nu
+    url: https://refraktometer.nu/
+  - name: Skjutmatt.se
+    url: https://skjutmatt.se/
+  - name: Termometer.dk
+    url: https://termometer.dk/
+  - name: Termometer.se
+    url: https://termometer.se/
+  - name: Injektor.com
+    url: https://injektor.com/
+  - name: Mikrometer.dk
+    url: https://mikrometer.dk/
+  - name: Chat Server
+    url: https://chat.arbeteserver.com/
+  - name: Fortnox Tools
+    url: https://ft.injektor.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: monitor.ylo.one
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Monitor
+  introTitle: "All services by Injektor Solutions"
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Injektor
+      href: https://injektor.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
