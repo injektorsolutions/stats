@@ -45,10 +45,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: monitor.ylo.one
+  cname: stats.ylo.one
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitor
+  name: Stats
   introTitle: "All services by Injektor Solutions"
   introMessage: 
   navbar:
